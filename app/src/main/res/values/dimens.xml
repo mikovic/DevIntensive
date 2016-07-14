@@ -4,57 +4,66 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <!--Sizes-->
 
-    <dimen name="size_small_24*">24dp</dimen>
-    <dimen name="size_medium_56*">56dp</dimen>
-    <dimen name="size_large_72*">72dp</dimen>
+    <dimen name="size_small_24">24dp</dimen>
+    <dimen name="size_medium_56">56dp</dimen>
+    <dimen name="size_large_72">72dp</dimen>
 <!--Space-->
-    <dimen name="spacing_small_8*">8dp</dimen>
-    <dimen name="spacing_normal_16*">16dp</dimen>
-    <dimen name="spacing_medial_24*">24dp</dimen>
-    <dimen name="spacing_medium_32*">32dp</dimen>
-    <dimen name="spacing_large_56*">56dp</dimen>
-    <dimen name="spacing_larger_72*">72dp</dimen>
+    <dimen name="spacing_small_8">8dp</dimen>
+    <dimen name="spacing_normal_16">16dp</dimen>
+    <dimen name="spacing_medial_24">24dp</dimen>
+    <dimen name="spacing_medium_32">32dp</dimen>
+    <dimen name="spacing_large_56">56dp</dimen>
+    <dimen name="spacing_larger_72">72dp</dimen>
 
 <!--Vertical spacing-->
-    <dimen name="status_bar_height_24*">24dp</dimen>
-    <dimen name="toolbar_height_56*">56dp</dimen>
-    <dimen name="subtitle_height_48*">48dp</dimen>
-    <dimen name="title_heigh_72*">72dp</dimen>
-    <dimen name="list_item_height_72*">72dp</dimen>
-    <dimen name="space_betwean_content_areas_8*">8dp</dimen>
-    <dimen name="acount_menu_48*">48dp</dimen>
-    <dimen name="navigation_right_margin_56*">56dp</dimen>
+    <dimen name="status_bar_height_24">24dp</dimen>
+    <dimen name="toolbar_height_56">56dp</dimen>
+    <dimen name="subtitle_height_48">48dp</dimen>
+    <dimen name="title_heigh_72">72dp</dimen>
+    <dimen name="list_item_height_72">72dp</dimen>
+    <dimen name="space_betwean_content_areas_8">8dp</dimen>
+    <dimen name="acount_menu_48">48dp</dimen>
+    <dimen name="navigation_right_margin_56">56dp</dimen>
 
     <!--Keylines and margins-->
-    <dimen name="screen_edge_left_margin_16*">16dp</dimen>
-    <dimen name="screen_edge_right_margin_16*">16dp</dimen>
-    <dimen name="content_left_margin_16*">72dp</dimen>
-    <dimen name="icon_right_side_align_32*">32dp</dimen>
+    <dimen name="screen_edge_left_margin_16">16dp</dimen>
+    <dimen name="screen_edge_right_margin_16">16dp</dimen>
+    <dimen name="content_left_margin_16">72dp</dimen>
+    <dimen name="icon_right_side_align_32">32dp</dimen>
 
     <!--Keylines and margins for tablet-->
 
-    <dimen name="content_left_margin_80*">80dp</dimen>
-    <dimen name="card_right_padding_24*">24dp</dimen>
-    <dimen name="card_left_padding_24*">24dp</dimen>
-    <dimen name="card_content_left_padding_104*">104dp</dimen>
-    <dimen name="list_item_height_64*">64dp</dimen>
+    <dimen name="content_left_margin_80">80dp</dimen>
+    <dimen name="card_right_padding_24">24dp</dimen>
+    <dimen name="card_left_padding_24">24dp</dimen>
+    <dimen name="card_content_left_padding_104">104dp</dimen>
+    <dimen name="list_item_height_64">64dp</dimen>
 
-    <dimen name="screen_edge_left_margin_24*">24dp</dimen>
-    <dimen name="screen_edge_right_margin_24*">24dp</dimen>
-   <dimen name="vertical_center_distance_52*">52dp</dimen>
-   <dimen name="nav_item_left_padding_104*">104dp</dimen>
+    <dimen name="screen_edge_left_margin_24">24dp</dimen>
+    <dimen name="screen_edge_right_margin_24">24dp</dimen>
+   <dimen name="vertical_center_distance_52">52dp</dimen>
+   <dimen name="nav_item_left_padding_104">104dp</dimen>
 
-   <dimen name="card_right_padding_32*">32dp</dimen>
-    <dimen name="card_left_padding_32*">32dp</dimen>
-   <dimen name="card_nav_item_left_padding_96*">96dp</dimen>
+   <dimen name="card_right_padding_32">32dp</dimen>
+    <dimen name="card_left_padding_32">32dp</dimen>
+   <dimen name="card_nav_item_left_padding_96">96dp</dimen>
 
 
 
     <!--Touch target size-->
     
-    <dimen name="avatar_40*">40dp</dimen>
-    <dimen name="icon_24*">24dp</dimen>
-    <dimen name="touch_target_48*">48dp</dimen>
+    <dimen name="avatar_40">40dp</dimen>
+    <dimen name="icon_24">24dp</dimen>
+    <dimen name="touch_target_48">48dp</dimen>
+    <dimen name="line_size">2dp</dimen>
 
-
+    
+    <dimen name="font_button_medium_14">14sp</dimen>
+    <dimen name="font_caption__regular_14">14sp</dimen>"
+    <dimen name="font_body_device_regular_14">14sp</dimen>
+    <dimen name="font_bodu_device_medium_14">14sp</dimen>
+    <dimen name="font_subhead_regular_16">16sp</dimen>
+    <dimen name="font_title_medium_20">20sp</dimen>
+    <dimen name="font_headline__regular_24">24sp</dimen>
+    
 </resources>

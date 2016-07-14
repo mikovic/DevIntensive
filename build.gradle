@@ -21,3 +21,10 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+dependencies {
+    apply plugin: 'java'
+    compile 'com.google.android.gms:play-services-ads:9.2.0'
+
+
+}
+
